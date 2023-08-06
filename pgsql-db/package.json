@@ -1,0 +1,17 @@
+{
+  "name": "pgsql-db",
+  "version": "1.0.0",
+  "description": "Connecting Postgresql To Node Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srikanth Padmanabhuni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "pg": "^8.11.2"
+  }
+}
